@@ -1,0 +1,25 @@
+{
+  "name": "tika-server",
+  "version": "1.0.0",
+  "description": "Lightweight Nodejs Tika-app server",
+  "main": "tika.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enmaso/node-tika-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tika",
+    "web",
+    "server"
+  ],
+  "author": "Enmaso, Inc.",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/enmaso/node-tika-server/issues"
+  },
+  "homepage": "https://github.com/enmaso/node-tika-server#readme"
+}
